@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096646431095",
+    "firebase_url": "https://entertainment-manager.firebaseio.com",
+    "project_id": "entertainment-manager",
+    "storage_bucket": "entertainment-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096646431095:android:d0016825a7b8cabb435172",
+        "android_client_info": {
+          "package_name": "com.example.entertainmentmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096646431095-m17hsv465758n13tselsemrnfvg1so4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdRBo2d-x1GYMQFnHHRKrZ1IJuUD-nMDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096646431095-m17hsv465758n13tselsemrnfvg1so4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
